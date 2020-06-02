@@ -1,0 +1,43 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: #000000;
+    /*f0f0f0 */
+    opacity: 1.0;
+    color: #ffffff;
+    font-family: Tahoma,Verdana,Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    background-attachment: fixed;
+    background-position: Left top;
+    background-repeat: no-repeat;
+
+}
+
+.bioColumn {
+    float: left;
+   width: 255px;
+
+/*    background-color: grey;*/
+    padding: 5px;
+    text-align: center;
+
+
+}
+
+.searchGoogle {
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 18px;
+    font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;
+    width: 255px;
+    float: left;
+    text-align: left;
+
+}
+
+.image
+{
+    width: 255px;
+  
+}
